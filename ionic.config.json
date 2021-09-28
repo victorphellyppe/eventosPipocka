@@ -1,0 +1,7 @@
+{
+  "name": "eventos-pipocka",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
